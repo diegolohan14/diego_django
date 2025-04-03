@@ -32,8 +32,8 @@ Certifique-se de ter o seguinte instalado:
 1.  Clone o repositório:
 
     ```bash
-    git clone <URL_do_repositório>
-    cd nome-do-projeto
+    git clone https://github.com/diegolohan14/diego_django
+    cd diego_django
     ```
 
 2.  Crie um ambiente virtual (recomendado):
