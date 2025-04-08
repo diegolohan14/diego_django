@@ -4,8 +4,8 @@ Este projeto demonstra o uso do Django, um framework web de alto nível em Pytho
 
 # Aluno
 
-Nome: Diego Lohan da Motta Silva <br>
-RGM: 27990231 <br>
+Nome: Diego Lohan da Motta Silva, Raphael Veras, Lucas de Sousa, Guilherme Coelho <br>
+RGM: 27990231, 28253671, 27963217, 30365074 <br>
 Curso: Ciência da Computação <br>
 8° semestre
 
