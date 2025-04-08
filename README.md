@@ -72,3 +72,8 @@ Certifique-se de ter o seguinte instalado:
 
 ```bash
 python manage.py test
+```
+
+## Imagem do projeto na Instância
+
+![Captura de tela 2025-04-05 120355](https://github.com/user-attachments/assets/c413d091-83f2-498e-8409-b2d2fad998b2)
